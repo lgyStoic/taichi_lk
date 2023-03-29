@@ -34,5 +34,5 @@ if __name__ == "__main__":
         cnt = 0       
         for s in status:
             cnt += 1
-        print("current track cnt ", cnt)
+        
 
